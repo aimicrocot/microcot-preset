@@ -1,2 +1,2 @@
 # microcot
-Microcot: preset for SillyTavern
+preset for SillyTavern
