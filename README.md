@@ -3,8 +3,6 @@ preset for SillyTavern https://files.catbox.moe/1kjssb.json
 
                           ꒰ Мяугайд ꒱
      /ᐠ . ꞈ.マ .•°     
-ʕ /  つ𓆝    
-
 ╭──────────────.ᗢ..─╮
             Зачем этот микропресет?
 ╰─..ᗢ.──────────────╯
