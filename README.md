@@ -1,7 +1,7 @@
 <h1 align="center">microcot</h1>
 
 <p align="center">
-  preset for <b>SillyTavern</b><br>
+  <b>SillyTavern</b><br> preset
   <a href="https://files.catbox.moe/1kjssb.json">
     https://files.catbox.moe/1kjssb.json
   </a>
