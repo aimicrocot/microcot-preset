@@ -1,7 +1,7 @@
 # microcot
 preset for SillyTavern https://files.catbox.moe/1kjssb.json
 
-                          ꒰ Мяугайд ꒱
+                                  ꒰ Мяугайд ꒱
      /ᐠ . ꞈ.マ .•°     
 ╭──────────────.ᗢ..─╮
             Зачем этот микропресет?
