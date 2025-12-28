@@ -5,10 +5,6 @@
   <a href="https://files.catbox.moe/4k13xq.json"></a>
 </p>
 
-<p align="center">
-
-</p>
-
 ---
 
 ## Зачем этот микропресет?
