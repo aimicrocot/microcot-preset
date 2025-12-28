@@ -1,7 +1,7 @@
 <h1 align="center">microcot /ᐠ . ꞈ.マ</h1>
 
 <p align="center">
-  <b>ᓚᘏᗢ SillyTavern</b> preset NEW ᗢᘏᓗ<br>
+  <b>SillyTavern</b> preset NEW<br>
   <a href="https://files.catbox.moe/1kjssb.json">
     https://files.catbox.moe/r2r6m9.json
   </a>
