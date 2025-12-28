@@ -1,0 +1,17 @@
+{
+    "id": "c10ffe38-1275-4d99-a135-2dbc2104c6b6",
+    "scriptName": "Celia HTML Depth 5 Vanquisher. ",
+    "findRegex": "/<([a-zA-Z0-9]+)(?:[^>]*)?>[\\s\\S]*?<\\/\\1>|<[a-zA-Z0-9]+(?:[^>]*)?\\s*\\/?>/g",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": false,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": 5,
+    "maxDepth": null
+}
