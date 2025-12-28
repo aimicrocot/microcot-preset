@@ -1,8 +1,7 @@
 <h1 align="center">microcot</h1>
 
 <p align="center">
-  <b>SillyTavern</b> preset<br>
-  New:
+  <b>SillyTavern</b> preset NEW<br>
   <a href="https://files.catbox.moe/1kjssb.json">
     https://files.catbox.moe/r2r6m9.json
   </a>
