@@ -41,8 +41,6 @@
 
 — Gemini and Claude sometimes ignore any custom think, reroll. Or add your thinker tag to the prefix; for my preset it's think. The prefix is the "Start response with…" field. think output that appears in responses should be cut via regex on think (included with the preset)
 
-— 2 CSS styles up to 150 tokens long (instead of common CSS styles of 500-1000+ tokens). Kitten CSS and Universal CSS with interactive buttons, glasses, and sliders
-
 ---
   
 ## What other modules are there?
