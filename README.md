@@ -9,99 +9,99 @@
 
 ---
 
-## Зачем этот микропресет?
+## Why this micro-preset?
 
-— Чтобы модели стали ещё более творческими, помнящими и умными. Меньше повторюшничества и заезженностей. Теперь ещё больше экономит ваши токены, позволяя ключам жить дольше
+— To make models more creative, better at remembering, and smarter. Less repetition and overused clichés. It also significantly saves your tokens, allowing API keys to last longer
 
-— Органичная игра на русском или английском (зависит из языка ваших постов). Аналогично с 1 и 3 лицом, пишите от 3 или 1, ответит от 3 или 1
+— Organic play in Russian or English (depends on the language of your posts). Same goes for 1st and 3rd person (write in 1st or 3rd person, it will reply in the same)
 
-— Хотите как фанфик, чтобы писал за юзера? В первом сообщении бота добавьте действий за юзера и отключите блок "Не пиши за юзера" (@Nytheris подсветила, что кому-то надо)
-
----
-
-## Для каких моделей?
-
-— Считаю универсалом, тестился на:
-
-╰►Гемини 2.5-3 Pro ~ бест, фиксит ценз + львиную долю заезженностей и повторюшничества
-
-╰►Клоды 4.1-4.5 Соннет/Опус ~ юзабельно, но они сами по себе более рассеянные и амнезирующие (спасают меморибук и самрайзы)
-
-╰►ГПТ 5.1+ ~ юзабельно, т.к. у новых ГПТ ослаблены фильтры, но если агр ценза, врубайте думалку или пишите синонимы для откровенностей
+— Want it to write like a fanfic, acting on behalf of the user? In the bot's first message, add actions for the user and disable the "Do not write for the user" block. Chat style is here too
 
 ---
 
-## Что интересного в пресете?
+## Which models?
 
-╰►Антиценз думалка
+— I consider it universal; tested on:
 
-— Пресет можно юзать в двух режимах: без думалки и с думалкой (включить 2 модуля Антиценз думалка)
+╰►Gemini 2.5–3 Pro ~ best option, fixes censorship + the lion’s share of clichés and repetition
 
-— Зачем думалка? Если вдруг на моём пресете лезет цензура. Думалка по моим тестам меньше тупит модель и эффективнее, чем регекс на пробелы, брейнфаки и длинные НСФВ-промты
+╰►Claude 4.1–4.5 Sonnet/Opus ~ usable, but they are inherently more scattered and prone to memory loss (Memorybook and Summaries can help)
 
-— Гемини и Клоды иногда игнорят любую кастомную думалку, рерольте. Или впишите в префикс тег вашей думалки, для моего пресета это think. Префикс это поле "Начинать ответ с..." А думалку, которая вылезает в ответ, режем регексом на think (есть к пресету)
+╰►GPT 5.1+ ~ usable, since newer GPTs have weaker filters, but if censorship gets aggressive, enable the "Anti-censor Think" or use synonyms for explicit content
+
+---
+
+## What's interesting?
+
+╰►Anti-censor think
+
+— The preset can be used in two modes: without <think> and with <think> (enable 2 Anti-censor think modules)
+
+— When? If you see censorship. Based on my tests, <think> dumbs the model down less and is more effective than space regexes, brainf*cks, and long NSFW prompts
+
+— Gemini and Claude sometimes ignore any custom think, reroll. Or add your thinker tag to the prefix; for my preset it's think. The prefix is the "Start response with…" field. think output that appears in responses should be cut via regex on think (included with the preset)
+
+— 2 CSS styles up to 150 tokens long (instead of common CSS styles of 500-1000+ tokens). Kitten CSS and Universal CSS with interactive buttons, glasses, and sliders
 
 ---
   
-## Какие модули есть ещё?
+## What other modules are there?
 
 <details>
 <summary> 
-  Для раскрытия списка модулей жмать сюда:
+  Click here:
 </summary>
  
-╰►Микрокот ~ лучше включать точечно, когда хотите обратиться к нему через OOC. Соролевик и комментатор, милый зумер с кошачьими повадками. Может слегка фиксить цензуру. Сейчас это 2 модуля, один кринжовый 4chan, второй более ассистентский
+╰►Microcot ~ best enabled selectively when you want to address him via OOC. A roleplayer and commentator, a cute zoomer with cat-like habits. Can slightly help with censor filters. Currently consists of 2 modules: one funny-cringe style, one more assistant-like
 
-╰►Русский язык ~ включать, если боты пишут на английском несмотря на ваши посты на русском (лайфхак: всегда дублируйте зарубежные имена на русском в карточку персонажа, чтобы модель не путалась)
+╰►Russian language ~ enable if bots keep writing in English despite your Russian posts (lifehack: always duplicate foreign names in Russian in the character card so the model doesn't get confused)
 
-╰►Формат письма ~ если хотите при ролке на русском, чтобы вместо длинного тире (—) и ёлочек («») юзались эти ("") кавычки (подсветил @xvcrrd)
+╰►Writing format ~ if you want, during Russian RP, to use straight quotes ("") instead of em dashes (—) and angle («») quotes (thanks @xvcrrd)
 
-╰►Пост до 250 слов ~ включаем, если с думалкой или без неё пишет простыни (может писать больше 250, но не слишком длинно)
+╰►Post up to 250 words ~ enable if, with or without the thinker, it writes wall-of-text responses (can write more than 250, but not too long)
 
-╰►HTML/CSS и Kitten CSS ~ юзать с регексом! Супер-короткий промт, но работает, как и большие, генерит картинки и интерактивности. Включайте по делу. Если результаты странные, удалите пост и сгенерьте заново. Хотите получить прям крутой CSS? Ставьте Размышления на максимум
+╰►HTML/CSS & Kitten CSS ~ use with regex! Super-laconic but effective prompt, works like large ones and also generates images and sometimes interactive. Enable only when needed to avoid slowing the model down. If you get a strange result, delete the post and generate again. Want some seriously cool CSS? Set Reasoning to max
 
-╰►Инфотабличка RU и EN ~ теперь лаконичнее. Включать по делу, когда часто меняются персонажи/локации/одежда
+╰►Info table RU & EN ~ enable when characters/locations/outfits change frequently
 
-╰►Антиэхо ООС ~ попытка убрать эхо более лаконично и менее отупляюще (узнав от @maybee0rnot)
+╰►Anti-echo OOC ~ an attempt to reduce echoing more concisely and with less model degradation (learned from @maybee0rnot)
 
-╰►Антивсезнание ~ снижает вероятность того, что персонажи будут знать друг о друге больше, чем было прямо упомянуто в игре
+╰►Anti-omniscience ~ reduces the chance that characters know more about each other than was explicitly stated in the game
 
-╰►Не пиши за юзера + мини антиэхо ~ чтобы работал, не допускайте в первом сообщении и/или прошлых постах бота писанины за юзера
+╰►Do not write for user + mini anti-echo ~ for this to work, do not allow the bot to write for the user in its first message and/or previous posts
 
-╰►Кинематографичность ~ более синема повествование, в котором по тестам меньше заезженностей (слопа)
+╰►Juicy style ~ writes more vividly and interestingly, fewer overused phrases
 
-╰►Сочный стиль ~ пишет сочнее и интереснее, меньше слопа
+╰►Cinematic ~ a more cinematic narrative that uses less clichés (slop)
 
-╰►Слоубёрн ~ медленное развитие отношений и чувств
+╰►Slowburn ~ slow development of relationships and feelings
 
-╰►Реалистик хорни ~ врубаем по делу, когда нужен реализм в хорни для мужчин, чтобы они не ходили с хорни в штанах без передышки
+╰►Realistic horny ~ enable when realism is needed in horny content for male characters, so they don't walk around permanently horny without breaks
 
-╰►3 или 1 лицо ~ включите, если начинаете ролку без стартовых сообщений и заставляете самого бота генерить стартовое (чтобы сразу писал от нужного вам лица)
+╰►3rd or 1st person ~ enable if you start RP without starter message and let the bot generate the opening itself (so it immediately writes in the desired person)
 
-╰►Стиль чата ру и анг ~ ОРГАНИЧНЫЙ, короткие сообщения как в мессенджере
+╰►Chat style RU & EN ~ ORGANIC, short messages like in a messenger
 
-╰►РЕАЛЬНО дикие ру комменты к постам ~ максимум ру аутентичности
+╰►REALLY wild RU & EN comments on posts ~ maximum Russian authenticity
 
-╰►Лёгкий тон ~ фиксим драму, кэжуал-повествование
+╰►Light tone ~ tones down drama, casual narration
 
-╰►Буст сюжета ~ включаем, когда надо продвинуть сюжет. Не скучно, но и без роялей в кустах
+╰►Plot boost ~ enable when you need to move the plot forward. Not boring, but without deus ex machina moments
 
-╰►Антиценз Gemini 3 ~ убираем ценз, без него не работала Гем 3 (вдохновлён советом гуру с Дискорда)
+╰►Anti-censorship Gemini 3 ~ removes censor filters; Gemini 3 didn't work without it (inspired by advice from a Discord guru)
 
-╰►Антиценз Gemini 2.5 Pro ~ антиценз стрелочка для этой модели (да, это работает)
+╰►Anti-censor Gemini 2.5 Pro ~ anti-censor arrow for this model (yes, it works)
 
-╰►Пустой префилл ~ тоже от ценза, довольно универсальный, можно начать с него
+╰►Empty prefill ~ also anti-censor, quite universal, good to start with
 </details>
 
-## Лайфхаки и благодарности
+## Lifehacks and thanks
 
-— Для макс. ума модели юзайте карточки перса до 800 токенов БЕЗ списков, скобок, маркдауна, W++ и Boostyle. Не юзайте инфотабы/HTML/CSS на постоянке и перезапускайте ролку с самрайзом до ~25к контекста. И лично я ролю на англ, а размышления юзаю на минимуме, чтобы не разжирать длину постов
+— For maximum model intelligence, use character cards up to 800 tokens WITHOUT lists, brackets, markdown, W++, or Boostyle. Don't use infotabs/HTML/CSS permanently, and restart the RP with a summary at ~25k context. Personally, I RP in English and keep Reasoning to a minimum
 
-— Если у вас супир-большие миры и куча персов, и вас не устраивает результат на пресете, можно врубить Пустой префилл и Размышления на максимум (идея и тесты от @Boringdommer)
+— If you have super-large worlds and many characters and aren't satisfied with the results using the preset, you can enable Empty prefill and set Reasoning to maximum (idea and tests by @Boringdommer)
 
-— Почему этот пресет именно такой: https://rentry.org/promting
+— Author’s Telegram channel: @sillytavern1 and Telegram chat: @sillytavern2. Special thanks for testing to @xvcrrd, @Boringdommer, and @maybee0rnot
 
-— Телеграм канал автора: @sillytavern1 и тг чат: @sillytavern2. За тесты отдельное спасибо @xvcrrd, @Boringdommer и @maybee0rnot
-
-> <p>P.S. Выкладываете мою идею/пресет? Можете указать тг @sillytavern1/автор Микрокот, спасибка
+> <p>P.S. If you repost my idea/preset somewhere, you may credit my Telegram channel and/or me as the author (Microcot), thank you
 </p>
