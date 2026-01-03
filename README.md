@@ -21,13 +21,13 @@
 
 ## Which models?
 
-— I consider it universal; tested on:
+╰►I consider it universal; tested on:
 
-╰►Gemini 2.5–3 Pro ~ best option, fixes censorship + the lion’s share of clichés and repetition
+— Gemini 2.5–3 Pro ~ best option, fixes censorship + the lion’s share of clichés and repetition
 
-╰►Claude 4.1–4.5 Sonnet/Opus ~ usable, but they are inherently more scattered and prone to memory loss (Memorybook and Summaries can help)
+— Claude 4.1–4.5 Sonnet/Opus ~ usable, but they are inherently more scattered and prone to memory loss (Memorybook and Summaries can help)
 
-╰►GPT 5.1+ ~ usable, since newer GPTs have weaker filters, but if censorship gets aggressive, enable the "Anti-censor Think" or use synonyms for explicit content
+— GPT 5.1+ ~ usable, since newer GPTs have weaker filters, but if censorship gets aggressive, enable the "Anti-censor Think" or use synonyms for explicit content
 
 ---
 
