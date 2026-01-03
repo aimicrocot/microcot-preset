@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>SillyTavern</b> preset NEW (RU & EN) <br>
-  <a href="https://files.catbox.moe/m6d10e.json">
-  https://files.catbox.moe/m6d10e.json
+  <a href="https://files.catbox.moe/4av3od.json">
+  https://files.catbox.moe/4av3od.json
   </a>
 </p>
 
