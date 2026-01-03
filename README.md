@@ -52,13 +52,13 @@
  
 ╰►Microcot ~ best enabled selectively when you want to address him via OOC. A roleplayer and commentator, a cute zoomer with cat-like habits. Can slightly help with censor filters. Currently consists of 2 modules: one funny-cringe style, one more assistant-like
 
-╰►Russian language ~ enable if bots keep writing in English despite your Russian posts (lifehack: always duplicate foreign names in Russian in the character card so the model doesn't get confused)
+╰►RU/EN language ~ enable if bot keep writing in English/Russian despite your language posts (lifehack: always duplicate foreign names in Russian in the character card so the model doesn't get confused)
 
 ╰►Writing format ~ if you want, during Russian RP, to use straight quotes ("") instead of em dashes (—) and angle («») quotes (thanks @xvcrrd)
 
 ╰►Post up to 250 words ~ enable if, with or without the thinker, it writes wall-of-text responses (can write more than 250, but not too long)
 
-╰►HTML/CSS & Kitten CSS ~ use with regex! Super-laconic but effective prompt, works like large ones and also generates images and sometimes interactive. Enable only when needed to avoid slowing the model down. If you get a strange result, delete the post and generate again. Want some seriously cool CSS? Set Reasoning to max. Suddenly pollinations ai made image generation paid, refusing to generate them for free, so I will be looking for an alternative
+╰►HTML/CSS & Kitten CSS ~ use with regex! Super-laconic but effective prompt, works like large ones and also generates images and sometimes interactive. Enable only when needed to avoid slowing the model down. If you get a strange result, delete the post and generate again. Want some seriously cool CSS? Set Reasoning to max
 
 ╰►Info table RU & EN ~ enable when characters/locations/outfits change frequently
 
@@ -66,11 +66,11 @@
 
 ╰►Anti-omniscience ~ reduces the chance that characters know more about each other than was explicitly stated in the game
 
-╰►Do not write for user + mini anti-echo ~ for this to work, do not allow the bot to write for the user in its first message and/or previous posts
+╰►Do not write for user ~ for this to work, do not allow the bot to write for the user in its first message and/or previous posts
 
 ╰►Juicy style ~ writes more vividly and interestingly, fewer overused phrases
 
-╰►Cinematic ~ a more cinematic narrative that uses less clichés (slop)
+╰►Cinematic ~ a more cinematic narrative that uses less clichés 
 
 ╰►Slowburn ~ slow development of relationships and feelings
 
