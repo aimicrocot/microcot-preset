@@ -1,0 +1,17 @@
+{
+    "id": "4eec4daa-7c18-4b08-b269-0f046d229a34",
+    "scriptName": "Regex Think",
+    "findRegex": "/^.*?<\\/think>\\s*/gis",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
