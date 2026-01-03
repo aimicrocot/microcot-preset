@@ -21,7 +21,7 @@
 
 ## Which models?
 
-╰►I consider it universal; tested on:
+╰► I consider it universal; tested on:
 
 — Gemini 2.5–3 Pro ~ best option, fixes censorship + the lion’s share of clichés and repetition
 
@@ -33,7 +33,7 @@
 
 ## What's interesting?
 
-╰►Anti-censor think
+╰► Anti-censor think
 
 — The preset can be used in two modes: without <think> and with <think> (enable 2 Anti-censor think modules)
 
@@ -50,47 +50,47 @@
   Click here:
 </summary>
  
-╰►Microcot ~ best enabled selectively when you want to address him via OOC. A roleplayer and commentator, a cute zoomer with cat-like habits. Can slightly help with censor filters. Currently consists of 2 modules: one funny-cringe style, one more assistant-like
+╰► Microcot ~ best enabled selectively when you want to address him via OOC. A roleplayer and commentator, a cute zoomer with cat-like habits. Can slightly help with censor filters. Currently consists of 2 modules: one funny-cringe style, one more assistant-like
 
-╰►RU/EN language ~ enable if bot keep writing in English/Russian despite your language posts (lifehack: always duplicate foreign names in Russian in the character card so the model doesn't get confused)
+╰► RU/EN language ~ enable if bot keep writing in English/Russian despite your language posts (lifehack: always duplicate foreign names in Russian in the character card so the model doesn't get confused)
 
-╰►Writing format ~ if you want, during Russian RP, to use straight quotes ("") instead of em dashes (—) and angle («») quotes (thanks @xvcrrd)
+╰► Writing format ~ if you want, during Russian RP, to use straight quotes ("") instead of em dashes (—) and angle («») quotes (thanks @xvcrrd)
 
-╰►Post up to 250 words ~ enable if, with or without the thinker, it writes wall-of-text responses (can write more than 250, but not too long)
+╰► Post up to 250 words ~ enable if, with or without the thinker, it writes wall-of-text responses (can write more than 250, but not too long)
 
-╰►HTML/CSS & Kitten CSS ~ use with regex! Super-laconic but effective prompt, works like large ones and also generates images and sometimes interactive. Enable only when needed to avoid slowing the model down. If you get a strange result, delete the post and generate again. Want some seriously cool CSS? Set Reasoning to max
+╰► HTML/CSS & Kitten CSS ~ use with regex! Super-laconic but effective prompt, works like large ones and also generates images and sometimes interactive. Enable only when needed to avoid slowing the model down. If you get a strange result, delete the post and generate again. Want some seriously cool CSS? Set Reasoning to max
 
 ╰►Info table RU & EN ~ enable when characters/locations/outfits change frequently
 
-╰►Anti-echo OOC ~ an attempt to reduce echoing more concisely and with less model degradation (learned from @maybee0rnot)
+╰► Anti-echo OOC ~ an attempt to reduce echoing more concisely and with less model degradation (learned from @maybee0rnot)
 
-╰►Anti-omniscience ~ reduces the chance that characters know more about each other than was explicitly stated in the game
+╰► Anti-omniscience ~ reduces the chance that characters know more about each other than was explicitly stated in the game
 
-╰►Do not write for user ~ for this to work, do not allow the bot to write for the user in its first message and/or previous posts
+╰► Do not write for user ~ for this to work, do not allow the bot to write for the user in its first message and/or previous posts
 
-╰►Juicy style ~ writes more vividly and interestingly, fewer overused phrases
+╰► Juicy style ~ writes more vividly and interestingly, fewer overused phrases
 
-╰►Cinematic ~ a more cinematic narrative that uses less clichés 
+╰► Cinematic ~ a more cinematic narrative that uses less clichés 
 
-╰►Slowburn ~ slow development of relationships and feelings
+╰► Slowburn ~ slow development of relationships and feelings
 
-╰►Realistic horny ~ enable when realism is needed in horny content for male characters, so they don't walk around permanently horny without breaks
+╰► Realistic horny ~ enable when realism is needed in horny content for male characters, so they don't walk around permanently horny without breaks
 
-╰►3rd or 1st person ~ enable if you start RP without starter message and let the bot generate the opening itself (so it immediately writes in the desired person)
+╰► 3rd or 1st person ~ enable if you start RP without starter message and let the bot generate the opening itself (so it immediately writes in the desired person)
 
-╰►Chat style RU & EN ~ ORGANIC, short messages like in a messenger
+╰► Chat style RU & EN ~ ORGANIC, short messages like in a messenger
 
-╰►REALLY wild RU & EN comments on posts ~ maximum Russian authenticity
+╰► REALLY wild RU & EN comments on posts ~ maximum Russian authenticity
 
-╰►Light tone ~ tones down drama, casual narration
+╰► Light tone ~ tones down drama, casual narration
 
-╰►Plot boost ~ enable when you need to move the plot forward. Not boring, but without deus ex machina moments
+╰► Plot boost ~ enable when you need to move the plot forward. Not boring, but without deus ex machina moments
 
-╰►Anti-censorship Gemini 3 ~ removes censor filters; Gemini 3 didn't work without it (inspired by advice from a Discord guru)
+╰► Anti-censorship Gemini 3 ~ removes censor filters; Gemini 3 didn't work without it (inspired by advice from a Discord guru)
 
-╰►Anti-censor Gemini 2.5 Pro ~ anti-censor arrow for this model (yes, it works)
+╰► Anti-censor Gemini 2.5 Pro ~ anti-censor arrow for this model (yes, it works)
 
-╰►Empty prefill ~ also anti-censor, quite universal, good to start with
+╰► Empty prefill ~ also anti-censor, quite universal, good to start with
 </details>
 
 ## Lifehacks and thanks
