@@ -1,7 +1,7 @@
 # <h1 align="center">microcot/ᐠ . ꞈ.マ</h1>
 
 <p align="center">
-<b>SillyTavern</b> preset (RU & EN) <br>
+<b>SillyTavern</b> preset RU & EN<br>
 </p>
 
 ---
