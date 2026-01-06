@@ -47,7 +47,7 @@
   Click here:
 </summary>
  
-— Microcot ~ best enabled selectively when you want to address him via OOC. A roleplayer and commentator, a cute zoomer with cat-like habits. Can slightly help with censor filters. Currently consists of 2 modules: one funny-cringe style, one more assistant-like
+— Microcot ~ best enabled selectively when you want to address him via OOC. A roleplayer and commentator, a cute zoomer with cat-like habits. Can slightly help with censor filters
 
 — RU/EN language ~ enable if bot keep writing in English/Russian despite your language posts (lifehack: always duplicate foreign names in Russian in the character card so the model doesn't get confused)
 
@@ -57,9 +57,9 @@
 
 — HTML/CSS & Kitten CSS ~ use with regex! Super-laconic but effective prompt, works like large ones and also generates images and sometimes interactive. Enable only when needed to avoid slowing the model down. If you get a strange result, delete the post and generate again. Want some seriously cool CSS? Set Reasoning to max
 
-— Info table RU & EN ~ enable when characters/locations/outfits change frequently
+— Info table ~ enable when characters/locations/outfits change frequently
 
-— Anti-echo OOC ~ an attempt to reduce echoing more concisely and with less model degradation (learned from @maybee0rnot)
+— Anti-echo ~ an attempt to reduce echoing more concisely and with less model degradation (learned from @maybee0rnot)
 
 — Anti-omniscience ~ reduces the chance that characters know more about each other than was explicitly stated in the game
 
@@ -77,7 +77,7 @@
 
 — Chat style RU & EN ~ ORGANIC, short messages like in a messenger
 
-— REALLY wild RU & EN comments on posts ~ maximum Russian authenticity
+— REALLY wild RU & EN comments on posts ~ maximum authenticity
 
 — Light tone ~ tones down drama, casual narration
 
@@ -98,7 +98,8 @@
 
 — Author’s Telegram channel: @sillytavern1 and Telegram chat: @sillytavern2. Special thanks for testing to @xvcrrd, @Boringdommer, and @maybee0rnot
 
-— HTML-regex from Celia, web-site https://leafcanfly.neocities.org/
+— HTML-regex from Celia, web-site
+<details>https://leafcanfly.neocities.org/</details>
 
 > <p>P.S. If you repost my idea/preset somewhere, you may credit my Telegram channel and/or me as the author (Microcot), thank you
 </p>
