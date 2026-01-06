@@ -1,12 +1,12 @@
 # <h1 align="center">microcot /ᐠ . ꞈ.マ ฅ𓆝</h1>
 
 <p align="center">
-<b>SillyTavern</b> micro-preset RU & EN<br>
+<b>SillyTavern</b> preset RU & EN<br>
 </p>
 
 ---
 
-## Why this preset?
+## Why this micro-preset?
 
 — To make models more creative, better at remembering, and smarter. Less repetition and overused clichés. It also significantly saves your tokens, allowing API keys to last longer
 
