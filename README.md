@@ -98,8 +98,7 @@
 
 — Author’s Telegram channel: @sillytavern1 and Telegram chat: @sillytavern2. Special thanks for testing to @xvcrrd, @Boringdommer, and @maybee0rnot
 
-— HTML-regex from Celia, web-site
-<details>https://leafcanfly.neocities.org/</details>
+— HTML-regex from Celia, Celia's web-site: https://leafcanfly.neocities.org/
 
 > <p>P.S. If you repost my idea/preset somewhere, you may credit my Telegram channel and/or me as the author (Microcot), thank you
 </p>
