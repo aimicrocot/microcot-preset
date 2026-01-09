@@ -8,7 +8,7 @@
 
 ## Why this micro-preset?
 
-— To make models more creative, better at remembering, and smarter. Less repetition and overused clichés. It also significantly saves your tokens, allowing API keys to last longer
+— To make models more creative, better at remembering, and smarter (I hope so). Less repetition and overused clichés. It also significantly saves your tokens, allowing API keys to last longer
 
 — Organic play in Russian or English (depends on the language of your posts). Same goes for 1st and 3rd person (write in 1st or 3rd person, it will reply in the same)
 
@@ -30,13 +30,15 @@
 
 ## What's interesting?
 
-╰► Anti-censor think
+╰► Anti-censor think + anti-censor combo modules
 
 — The preset can be used in two modes: without <think> and with <think> (enable 2 Anti-censor think modules)
 
 — When? If you see censorship. Based on my tests, <think> dumbs the model down less and is more effective than space regexes, brainf*cks, and long NSFW prompts
 
 — Gemini and Claude sometimes ignore any custom think, reroll. Or add your thinker tag to the prefix; for my preset it's think. The prefix is the "Start response with…" field. think output that appears in responses should be cut via regex on think (included with the preset)
+
+— You can use just the Anti-censor below module or Empty prefill. But for more intense games, you can use the Anti-censor below + Empty prefill + Microcot module, and also check the box for Prefill for continuation + Merge system messages in the preset settings. In the most complex cases, you can also add the Anti-censor thinker. Reroll if it continues to be censored (thanks to @Boringdommer for additional ideas on censorship in preset settings).
 
 ---
   
