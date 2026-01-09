@@ -8,7 +8,7 @@ SillyTavern preset RU/EN<br>
 
 # English guide
 
-<details> 
+<details> Click here:
   
 ## Why this micro-preset?
 
