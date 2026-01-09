@@ -102,7 +102,7 @@ SillyTavern preset RU/EN<br>
 
 — If you have super-large worlds and many characters and aren't satisfied with the results using the preset, you can enable Empty prefill and set Reasoning to maximum (idea and tests by @Boringdommer)
 
-— Author’s Telegram channel: @sillytavern1 and Telegram chat: @sillytavern2. Special thanks for testing to @xvcrrd, @Boringdommer, and @maybee0rnot
+— Author's Telegram channel: @sillytavern1 and Telegram chat: @sillytavern2. Special thanks for testing to @xvcrrd, @Boringdommer, and @maybee0rnot
 
 — HTML-regex from Celia, Celia's web-site: https://leafcanfly.neocities.org/
 
