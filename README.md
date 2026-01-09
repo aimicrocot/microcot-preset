@@ -6,7 +6,9 @@ SillyTavern preset RU/EN<br>
 
 ---
 # ENGLISH GUIDE
-<details> ## Why this micro-preset?
+<details> 
+  
+## Why this micro-preset?
 
 — To make models more creative, better at remembering, and smarter (I hope so). Less repetition and overused clichés. It also significantly saves your tokens, allowing API keys to last longer
 
