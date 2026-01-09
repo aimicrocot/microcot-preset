@@ -193,7 +193,6 @@ SillyTavern preset RU/EN<br>
 — Anti-censor Gemini 2.5 Pro ~ анти-цензор «стрелка» для этой модели (да, работает)
 
 — Empty prefill ~ тоже анти-цензор, довольно универсальный, хорошо начинать с него
-
 </details>
 
 ## Лайфхаки и благодарности
@@ -206,4 +205,4 @@ SillyTavern preset RU/EN<br>
 
 — HTML-regex от Celia, сайт Celia: https://leafcanfly.neocities.org/
 
-<pre>P.S. Если вы где-то репостите мою идею/пресет, можете указать мой Telegram-канал и/или меня как автора (Microcot), спасибо</pre>
+> <p>P.S. Если вы где-то репостите мою идею/пресет, можете указать мой Telegram-канал и/или меня как автора (Microcot), спасибо</p>
