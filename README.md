@@ -144,7 +144,7 @@ SillyTavern preset RU/EN<br>
 
 — Можно использовать только модуль Anti-censor below или Empty prefill. Но для более интенсивных игр можно использовать Anti-censor below + Empty prefill + Microcot, а также поставить галочки Prefill for continuation + Merge system messages в настройках пресета. В самых сложных случаях можно добавить Anti-censor thinker. Если цензура продолжается — перегенерируйте (спасибо @Boringdommer за дополнительные идеи по борьбе с цензурой в настройках пресета, спасибо за промпты: https://rarestmeow.neocities.org/)
 
-## Какие ещё есть модули?
+## Остальные модули и пояснения к ним
 
 <details>
 <summary> 
