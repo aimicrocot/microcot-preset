@@ -67,13 +67,17 @@
 
 — Do not write for user ~ for this to work, do not allow the bot to write for the user in its first message and/or previous posts
 
+— Light tone ~ less drama, casual narration
+
 — Juicy style ~ writes more vividly and interestingly, fewer overused phrases
 
 — Cinematic ~ a more cinematic narrative that uses less clichés 
 
-— Slowburn ~ slow development of relationships and feelings
+— Slowburn ~ slow development of relationships and feelings, less horny
 
-— Realistic horny ~ enable when realism is needed in horny content for male characters, so they don't walk around permanently horny without breaks
+— No dirty talks ~ special for me, sick of it
+
+— No lists ~ for GPT and sometimes Gemini
 
 — 3rd or 1st person ~ enable if you start RP without starter message and let the bot generate the opening itself (so it immediately writes in the desired person)
 
@@ -81,11 +85,11 @@
 
 — REALLY wild RU & EN comments on posts ~ maximum authenticity
 
-— Light tone ~ tones down drama, casual narration
-
 — Plot boost ~ enable when you need to move the plot forward. Not boring, but without deus ex machina moments
 
-— Anti-censorship Gemini 3 ~ removes censor filters; Gemini 3 didn't work without it (inspired by advice from a Discord guru)
+— Anti-censor below ~ removes censor filters; Gemini 3 didn't work without it (inspired by advice from a Discord guru)
+
+— Anti-censor <del> ~ combo with Anti-censor below + use Regex <del>
 
 — Anti-censor Gemini 2.5 Pro ~ anti-censor arrow for this model (yes, it works)
 
