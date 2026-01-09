@@ -1,4 +1,4 @@
-# <h1 align="center">microcot /ᐠ </h1>
+# <h1 align="center">microcot /ᐠ . ꞈ.マ </h1>
 
 <p align="center">
 SillyTavern preset RU/EN<br>
