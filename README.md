@@ -38,7 +38,7 @@
 
 — Gemini and Claude sometimes ignore any custom think, reroll. Or add your thinker tag to the prefix; for my preset it's think. The prefix is the "Start response with…" field. think output that appears in responses should be cut via regex on think (included with the preset)
 
-— You can use just the Anti-censor below module or Empty prefill. But for more intense games, you can use the Anti-censor below + Empty prefill + Microcot module, and also check the box for Prefill for continuation + Merge system messages in the preset settings. In the most complex cases, you can also add the Anti-censor thinker. Reroll if it continues to be censored (thanks to @Boringdommer for additional ideas on censorship in preset settings).
+— You can use just the Anti-censor below module or Empty prefill. But for more intense games, you can use the Anti-censor below + Empty prefill + Microcot module, and also check the box for Prefill for continuation + Merge system messages in the preset settings. In the most complex cases, you can also add the Anti-censor thinker. Reroll if it continues to be censored (thanks to @Boringdommer for additional ideas on censorship in preset settings, thanks for prompts: https://rarestmeow.neocities.org/)
 
 ---
   
