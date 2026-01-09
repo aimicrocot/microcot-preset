@@ -6,7 +6,7 @@ SillyTavern preset RU/EN<br>
 
 ---
 
-# English guide
+## English guide
 
 <details>
   
