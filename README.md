@@ -44,7 +44,7 @@ SillyTavern preset RU/EN<br>
 
 — Gemini and Claude sometimes ignore any custom think, reroll. Or add your thinker tag to the prefix; for my preset it's think. The prefix is the "Start response with…" field. think output that appears in responses should be cut via regex on think (included with the preset)
 
-— You can use just the Anti-censor below module or Empty prefill. But for more intense games, you can use the Anti-censor below + Empty prefill + Microcot module, and also check the box for Prefill for continuation + Merge system messages in the preset settings. In the most complex cases, you can also add the Anti-censor thinker. Reroll if it continues to be censored (thanks to @Boringdommer for additional ideas on censorship in preset settings, thanks for prompts: https://rarestmeow.neocities.org/)
+— You can use just the Anti-censor below module or Empty prefill. But for more intense games, you can use the Anti-censor below + Empty prefill + Microcot module, and also check the box for Continue prefill + Squash system messages in the preset settings. In the most complex cases, you can also add the Anti-censor thinker. Reroll if it continues to be censored (thanks to @Boringdommer for additional ideas on censorship in preset settings, thanks for prompts: https://rarestmeow.neocities.org/)
 
 ---
   
@@ -104,7 +104,7 @@ SillyTavern preset RU/EN<br>
 
 ## Lifehacks and thanks
 
-— For maximum model intelligence, use character cards up to 800 tokens WITHOUT lists, brackets, markdown, W++, or Boostyle. Don't use infotabs/HTML/CSS permanently, and restart the RP with a summary at ~25k context. Personally, I RP in English and keep Reasoning to a minimum. Why is my preset like this: https://rentry.org/promting
+— For maximum model intelligence, use character cards up to 800 tokens WITHOUT lists, brackets, markdown, W++, or Boostyle. Don't use infotabs/HTML/CSS permanently, and restart the RP with a summary at ~25k context. Personally, I RP in English and keep Reasoning to a minimum. If the AI has trouble understanding prompts, check the box in the preset settings for Use system prompt and/or Squash system messages. Why is my preset like this: https://rentry.org/promting
 
 — If you have super-large worlds and many characters and aren't satisfied with the results using the preset, you can enable Empty prefill and set Reasoning to maximum (idea and tests by @Boringdommer)
 
@@ -204,7 +204,7 @@ SillyTavern preset RU/EN<br>
 
 ## Лайфхаки и благодарности
 
-— Для максимального интеллекта модели используйте карточки персонажей до 800 токенов БЕЗ списков, скобок, markdown, W++, или Boostyle. Не используйте Инфотаблицы/HTML/CSS постоянно и перезапускайте RP с саммари примерно на 25-32k контекста. Лично я ролю на английском и держу Reasoning на минимуме. Почему мой пресет именно такой: https://rentry.org/promting
+— Для максимального интеллекта модели используйте карточки персонажей до 800 токенов БЕЗ списков, скобок, markdown, W++, или Boostyle. Не используйте Инфотаблицы/HTML/CSS постоянно и перезапускайте RP с саммари примерно на 25-32k контекста. Лично я ролю на английском и держу Reasoning на минимуме. Если модель плохо слушается, поставьте галочку в настройках пресета на Включить системный промт и/или Склеивать сообщения системы. Почему мой пресет именно такой: https://rentry.org/promting
 
 — Если у вас огромные миры и много персонажей, и результаты с пресетом вас не устраивают, можно включить Empty prefill и поставить Reasoning на максимум (идея и тесты от @Boringdommer)
 
