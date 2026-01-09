@@ -5,7 +5,8 @@ SillyTavern preset RU/EN<br>
 </p>
 
 ---
-
+## ENGLISH GUIDE
+<details>
 ## Why this micro-preset?
 
 — To make models more creative, better at remembering, and smarter (I hope so). Less repetition and overused clichés. It also significantly saves your tokens, allowing API keys to last longer
@@ -108,4 +109,5 @@ SillyTavern preset RU/EN<br>
 
 > <p>P.S. If you repost my idea/preset somewhere, you may credit my Telegram channel and/or me as the author (Microcot), thank you
 </p>
+</details>
 
