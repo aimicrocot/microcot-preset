@@ -6,7 +6,7 @@ SillyTavern preset RU/EN<br>
 
 ---
 
-# ENGLISH GUIDE
+# English guide
 <details> 
   
 ## Why this micro-preset?
