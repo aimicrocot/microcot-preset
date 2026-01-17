@@ -111,9 +111,6 @@ SillyTavern preset RU/EN<br>
 — Author's Telegram channel: @sillytavern1 and Telegram chat: @sillytavern2. Special thanks for testing to @xvcrrd, @Boringdommer, and @maybee0rnot
 
 — HTML-regex from Celia, Celia's web-site: https://leafcanfly.neocities.org/
-
-> <p>P.S. If you repost my idea/preset somewhere, you may credit my Telegram channel and/or me as the author (Microcot), thank you
-</p>
 </details>
 
 ## Почему этот микро-пресет?
@@ -211,5 +208,3 @@ SillyTavern preset RU/EN<br>
 — Telegram-канал автора: @sillytavern1 и Telegram-чат: @sillytavern2. Отдельная благодарность за тестирование @xvcrrd, @Boringdommer и @maybee0rnot
 
 — HTML-regex от Celia, сайт Celia: https://leafcanfly.neocities.org/
-
-> <p>P.S. Если вы где-то репостите мою идею/пресет, можете указать мой Telegram-канал и/или меня как автора (Microcot), спасибо</p>
