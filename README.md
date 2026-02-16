@@ -104,11 +104,9 @@ SillyTavern preset RU/EN<br>
 
 ## Lifehacks and thanks
 
-— For maximum model intelligence, use character cards up to 800 tokens WITHOUT lists, brackets, markdown, W++, or Boostyle. Don't use infotabs/HTML/CSS permanently, and restart the RP with a summary at ~25k context. Personally, I RP in English and keep Reasoning to a minimum. If the AI has trouble understanding prompts, check the box in the preset settings for Use system prompt and/or Squash system messages. Why is my preset like this: https://rentry.org/promting
+— For maximum model intelligence, use character cards up to 800 tokens WITHOUT lists, brackets, markdown, W++, or Boostyle. Don't use infotabs/HTML/CSS permanently, and restart the RP with a summary at ~25k context. Personally, I RP in English. If the AI has trouble understanding prompts, check the box in the preset settings for Use system prompt and/or Squash system messages. Why is my preset like this: https://rentry.org/promting
 
-— If you have super-large worlds and many characters and aren't satisfied with the results using the preset, you can enable Empty prefill and set Reasoning to maximum (idea and tests by @Boringdommer)
-
-— Author's Telegram channel: @sillytavern1 and Telegram chat: @sillytavern2. Special thanks for testing to @xvcrrd, @Boringdommer, and @maybee0rnot
+— Author's Telegram channel: @sillytavern1
 
 — HTML-regex from Celia, Celia's web-site: https://leafcanfly.neocities.org/
 </details>
@@ -201,10 +199,8 @@ SillyTavern preset RU/EN<br>
 
 ## Лайфхаки и благодарности
 
-— Для максимального интеллекта модели используйте карточки персонажей до 800 токенов БЕЗ списков, скобок, markdown, W++, или Boostyle. Не используйте Инфотаблицы/HTML/CSS постоянно и перезапускайте RP с саммари примерно на 25-32k контекста. Лично я ролю на английском и держу Reasoning на минимуме. Если ИИ плохо слушает промты, поставьте галочку в настройках пресета на Включить системный промт и/или Склеивать сообщения системы (но тогда модель будет менее творческая). Почему мой пресет именно такой: https://rentry.org/promting
+— Для максимального интеллекта модели используйте карточки персонажей до 800 токенов БЕЗ списков, скобок, markdown, W++, или Boostyle. Не используйте Инфотаблицы/HTML/CSS постоянно и перезапускайте RP с саммари примерно на 25-32k контекста. Лично я ролю на английском. Если ИИ плохо слушает промты, поставьте галочку в настройках пресета на Включить системный промт и/или Склеивать сообщения системы (но тогда модель будет менее творческая). Почему мой пресет именно такой: https://rentry.org/promting
 
-— Если у вас огромные миры и много персонажей, и результаты с пресетом вас не устраивают, можно включить Empty prefill и поставить Reasoning на максимум (идея и тесты от @Boringdommer)
-
-— Telegram-канал автора: @sillytavern1 и Telegram-чат: @sillytavern2. Отдельная благодарность за тестирование @xvcrrd, @Boringdommer и @maybee0rnot
+— Telegram-канал автора: @sillytavern1
 
 — HTML-regex от Celia, сайт Celia: https://leafcanfly.neocities.org/
