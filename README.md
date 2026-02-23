@@ -165,7 +165,7 @@ I consider it universal; tested on:
 
 ## Кредиты
 
-— Спасибо @Boringdommer за идеи по борьбе с цензурой (в т.ч. промты NSFW On)
+— Спасибо @Boringdommer за идеи по цензуре (в т.ч. промты NSFW On)
 
 — Спасибо Мяу за Bellow и Del: https://rarestmeow.neocities.org
 
