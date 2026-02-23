@@ -48,7 +48,7 @@ I consider it universal; tested on:
 
 — The preset can be used in two modes: without a custom thinker and with it (enable Think and/or Micro Talks)  
 
-— When to enable the thinker? If you see censorship. In my tests, a custom thinker “dumbs down” the model less than whitespace regex, brainfucks, and long NSFW prompts/presets  
+— When to enable the thinker? If you see censorship. A custom thinker “dumbs down” the model less than whitespace regex, brainfucks, and long NSFW prompts/presets  
 
 — Gemini and Claude sometimes ignore any custom thinker ~ add your own thinker tag in the prefix; for my preset it is `<think>`. By prefix I mean the “Start response with…” section. Remove thinker text that appears in responses via regex on think (included in this preset)  
 
