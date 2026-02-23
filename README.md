@@ -85,6 +85,8 @@ I consider it universal; tested on:
 — Thanks to Meow for Below and Del: https://rarestmeow.neocities.org  
 
 — HTML regex by Celia: https://leafcanfly.neocities.org
+
+— Humanizer: https://github.com/blader/humanizer/blob/main/SKILL.md
 </details>
 
 </details>
@@ -164,3 +166,5 @@ I consider it universal; tested on:
 — Спасибо Мяу за Below и Del: https://rarestmeow.neocities.org
 
 — HTML-regex от Селии: https://leafcanfly.neocities.org
+
+— Humanizer: https://github.com/blader/humanizer/blob/main/SKILL.md
