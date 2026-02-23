@@ -9,97 +9,81 @@ SillyTavern preset RU/EN<br>
 ## English guide
 
 <details>
-  
-## Why this micro-preset?
+  ## Why This Micro-Preset
 
-— To make models more creative, better at remembering, and smarter (I hope so). Less repetition and overused clichés. It also significantly saves your tokens, allowing API keys to last longer
+— Written according to guidelines from LLM creators (Google, Anthropic, GPT) ~ to make models more creative, better at remembering, and smarter  
 
-— Organic play in Russian or English (depends on the language of your posts). Same goes for 1st and 3rd person (write in 1st or 3rd person, it will reply in the same)
+— Fewer repetitions and clichés ~ because the fewer rigid instructions, the more creatively and vividly models write  
 
-— Want it to write like a fanfic, acting on behalf of the user? In the bot's first message, add actions for the user and disable the "Do not write for the user" block. Chat style is here too
+— Conciseness, clarity, and specificity ~ saves tokens, so API keys last much longer  
 
----
+## Preset Features
 
-## Which models?
+— Customization ~ you can specify the language, response length, genres, fetishes, the narrative point of view, enable the writer-Microcat personality and its comments  
 
-╰► I consider it universal; tested on:
+— Separate bans on negative phrases, overused words, and constructions; you can add your own  
 
-— Gemini 2.5–3 Pro ~ best option, fixes censorship + the lion’s share of clichés and repetition
+— Anti-censorship thinker, which can be strengthened by adding Microcat-goblin personalities (enable Think and Micro Talks modules together)  
 
-— Claude 4.1–4.5 Sonnet/Opus ~ usable, but they are inherently more scattered and prone to memory loss (Memorybook and Summaries can help)
+— Many meta-stuff elements for RP itself like HTML/CSS & Img Gen, diary notes, thoughts, sims, comments, infotabs, etc.  
 
-— GPT 5.1+ ~ usable, since newer GPTs have weaker filters, but if censorship gets aggressive, enable the "Anti-censor Think" or use synonyms for explicit content
+— Regex for the thinker, words (add your own), and HTML/CSS  
 
-— Deepseek ~ usable based on reviews and my tests too
+— Want it to write like a fanfic, acting on behalf of the user? In the bot’s first message, add actions for the user and disable the “Do not write for the user” block. The chat-style option is also here  
 
----
+## For Which Models
 
-## What's interesting?
+I consider it universal; tested on:
 
-╰► Anti-censor think + anti-censor combo modules
+— Gemini 2.5–3.1 Pro ~ my main model, the preset removes a lot of censorship + the lion’s share of clichés and repetitions  
 
-— The preset can be used in two modes: without <think> and with <think> (enable 2 Anti-censor think modules)
+— Claude 4.1+ Sonnet/Opus ~ usable, but by nature more scattered and prone to memory loss (Memorybook and Summaries can help)  
 
-— When? If you see censorship. Based on my tests, <think> dumbs the model down less and is more effective than space regexes, brainf*cks, and long NSFW prompts
+— GPT 5+ ~ usable, new GPTs have weaker filters, but if censorship becomes aggressive, enable Think + Talks or use synonyms for explicit content  
 
-— Gemini and Claude sometimes ignore any custom think, reroll. Or add your thinker tag to the prefix; for my preset it's think. The prefix is the "Start response with…" field. think output that appears in responses should be cut via regex on think (included with the preset)
+— Deepseek V3–R1+ ~ usable according to my tests and feedback as well  
 
-— You can use just the Anti-censor below module or Empty prefill. But for more intense games, you can use the Anti-censor below + Empty prefill + Microcot module, and also check the box for Continue prefill + Squash system messages in the preset settings. In the most complex cases, you can also add the Anti-censor thinker. Reroll if it continues to be censored (thanks to @Boringdommer for additional ideas on censorship in preset settings, thanks for prompts: https://rarestmeow.neocities.org/)
+## About the Thinker
 
----
-  
-## What other modules are there?
+— The preset can be used in two modes: without a custom thinker and with it (enable Think and/or Micro Talks)  
 
-<details>
-<summary> 
-  Click here:
-</summary>
- 
-— Microcot ~ best enabled selectively when you want to address him via OOC. A roleplayer and commentator, a cute zoomer with cat-like habits. Can slightly help with censor filters
+— When to enable the thinker? If you see censorship. In my tests, a custom thinker “dumbs down” the model less than whitespace regex, brainfucks, and long NSFW prompts/presets  
 
-— RU/EN language ~ enable if bot keep writing in English/Russian despite your language posts (lifehack: always duplicate foreign names in Russian in the character card so the model doesn't get confused)
+— Gemini and Claude sometimes ignore any custom thinker ~ add your own thinker tag in the prefix; for my preset it is `<think>`. By prefix I mean the “Start response with…” section. Remove thinker text that appears in responses via regex on think (included in this preset)  
 
-— Writing format ~ if you want, during Russian RP, to use straight quotes ("") instead of em dashes (—) and angle («») quotes (thanks @xvcrrd)
+## About Anti-Censorship
 
-— Post up to 250 words ~ enable if, with or without the thinker, it writes wall-of-text responses (can write more than 250, but not too long)
+— For PG-13/foreplay ~ you can leave all NSFW modules disabled, or use only the NSFW Below module or Empty prefill  
 
-— HTML/CSS & Kitten CSS ~ use with regex! Super-laconic but effective prompt, works like large ones and also generates images and sometimes interactive. Enable only when needed to avoid slowing the model down. If you get a strange result, delete the post and generate again. Want some seriously cool CSS? Set Reasoning to max
+— For more intense play ~ NSFW Below + Empty Prefill + Micro Writer, and also check Prefill for continuation + Merge system messages in the preset settings  
 
-— Info table ~ enable when characters/locations/outfits change frequently
+— Increase the heat of the RP ~ enable the I Will or Arrow prefill; if it doesn’t help, use NSFW Below + NSFW Del instead  
 
-— Anti-echo ~ an attempt to reduce echoing more concisely and with less model degradation (learned from @maybee0rnot)
+— Increase the heat further ~ instead of Below and Del blocks enable NSFW On; you can use only it, or add 2 more lower blocks, for a total of 3 modules  
 
-— Anti-omniscience ~ reduces the chance that characters know more about each other than was explicitly stated in the game
+— In the most difficult cases ~ in addition to NSFW On enable custom Think and Talks. If censorship is still present, regenerate  
 
-— Do not write for user ~ for this to work, do not allow the bot to write for the user in its first message and/or previous posts
+## Lifehacks
 
-— Light tone ~ less drama, casual narration
+— For maximum model intelligence, use character cards up to 800 tokens WITHOUT lists, brackets, markdown, W++, or Boostyle  
 
-— Juicy style ~ writes more vividly and interestingly, fewer overused phrases
+— Do not use Infotables/HTML/CSS constantly and restart RP with a summary at around 25–32k context  
 
-— Cinematic ~ a more cinematic narrative that uses less clichés 
+— If the AI poorly follows prompts, check Enable system prompt and/or Merge system messages in the preset settings (but the model will be less creative)  
 
-— Slowburn ~ slow development of relationships and feelings, less horny
+## Contacts
 
-— No dirty talks ~ special for me, sick of it
+— Author’s Telegram channel: @sillytavern1  
 
-— No lists ~ for GPT and sometimes Gemini
+— My approach to prompting bots: https://rentry.org/promting  
 
-— 3rd or 1st person ~ enable if you start RP without starter message and let the bot generate the opening itself (so it immediately writes in the desired person)
+## Credits
 
-— Chat style RU & EN ~ ORGANIC, short messages like in a messenger
+— Thanks to @Boringdommer for ideas on fighting censorship (including NSFW On prompts)  
 
-— REALLY wild RU & EN comments on posts ~ maximum authenticity
+— Thanks to Meow for Below and Del: https://rarestmeow.neocities.org  
 
-— Plot boost ~ enable when you need to move the plot forward. Not boring, but without deus ex machina moments
-
-— Anti-censor below ~ removes censor filters; Gemini 3 didn't work without it (inspired by advice from a Discord guru)
-
-— Anti-censor <del> ~ combo with Anti-censor below + use Regex <del>
-
-— Anti-censor Gemini 2.5 Pro ~ anti-censor arrow for this model (yes, it works)
-
-— Empty prefill ~ also anti-censor, quite universal, good to start with
+— HTML regex by Celia: https://leafcanfly.neocities.org
 </details>
 
 ## Lifehacks and thanks
