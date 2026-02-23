@@ -9,6 +9,7 @@ SillyTavern preset RU/EN<br>
 ## English guide
 
 <details>
+  
   ## Why This Micro-Preset
 
 — Written according to guidelines from LLM creators (Google, Anthropic, GPT) ~ to make models more creative, better at remembering, and smarter  
@@ -43,7 +44,7 @@ I consider it universal; tested on:
 
 — Deepseek V3–R1+ ~ usable according to my tests and feedback as well  
 
-## About the Thinker
+## About Think
 
 — The preset can be used in two modes: without a custom thinker and with it (enable Think and/or Micro Talks)  
 
@@ -51,13 +52,13 @@ I consider it universal; tested on:
 
 — Gemini and Claude sometimes ignore any custom thinker ~ add your own thinker tag in the prefix; for my preset it is `<think>`. By prefix I mean the “Start response with…” section. Remove thinker text that appears in responses via regex on think (included in this preset)  
 
-## About Anti-Censorship
+## About Anti-Censor NSFW
 
 — For PG-13/foreplay ~ you can leave all NSFW modules disabled, or use only the NSFW Below module or Empty prefill  
 
 — For more intense play ~ NSFW Below + Empty Prefill + Micro Writer, and also check Prefill for continuation + Merge system messages in the preset settings  
 
-— Increase the heat of the RP ~ enable the I Will or Arrow prefill; if it doesn’t help, use NSFW Below + NSFW Del instead  
+— Increase the heat of the RP ~ enable the I Will or Arrow prefill; if it doesn’t help, use NSFW Below + NSFW Del instead
 
 — Increase the heat further ~ instead of Below and Del blocks enable NSFW On; you can use only it, or add 2 more lower blocks, for a total of 3 modules  
 
@@ -75,7 +76,7 @@ I consider it universal; tested on:
 
 — Author’s Telegram channel: @sillytavern1  
 
-— My approach to prompting bots: https://rentry.org/promting  
+— My approach to prompting: https://rentry.org/promting  
 
 ## Credits
 
@@ -86,13 +87,6 @@ I consider it universal; tested on:
 — HTML regex by Celia: https://leafcanfly.neocities.org
 </details>
 
-## Lifehacks and thanks
-
-— For maximum model intelligence, use character cards up to 800 tokens WITHOUT lists, brackets, markdown, W++, or Boostyle. Don't use infotabs/HTML/CSS permanently, and restart the RP with a summary at ~25k context. Personally, I RP in English. If the AI has trouble understanding prompts, check the box in the preset settings for Use system prompt and/or Squash system messages. Why is my preset like this: https://rentry.org/promting
-
-— Author's Telegram channel: @sillytavern1
-
-— HTML-regex from Celia, Celia's web-site: https://leafcanfly.neocities.org/
 </details>
 
 ## Зачем этот микро-пресет
