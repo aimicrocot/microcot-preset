@@ -28,8 +28,6 @@ SillyTavern preset RU/EN<br>
 
 — Many meta-stuff elements for RP itself like HTML/CSS & Img Gen, diary notes, thoughts, sims, comments, infotabs, etc.  
 
-— Regex for the thinker, words (add your own), and HTML/CSS  
-
 — Want it to write like a fanfic, acting on behalf of the user? In the bot’s first message, add actions for the user and disable the “No write for the user”. 
 
 — The chat-style or immersive RP
@@ -110,8 +108,6 @@ I consider it universal; tested on:
 — Антицензная думалка, которую можно усилить, дополнив личностями Микрокотов-гоблинов (включить вместе модули Think и Micro Talks)
 
 — Много мета-штук к самой РП типа HTML/CSS & Img Gen, дневниковых заметок, мыслей, симс, комментов, инфотабов и т.д. (я их использую в качестве Quick Replies, но захотелось в итоге поделиться промтами в пресете кому интересно)
-
-— Регексы на думалку, слова (добавь свои) и HTML/CSS
 
 — Хотите, чтобы он писал как фанфик, действуя от имени пользователя? В первом сообщении бота добавьте действия для пользователя и отключите блок "No write for the user" 
 
