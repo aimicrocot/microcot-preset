@@ -177,6 +177,7 @@ SillyTavern preset RU/EN<br>
 
 — Telegram-канал автора: @sillytavern1, мой подход к промтингу ботов: https://rentry.org/promting
 
-— HTML-regex от Celia, сайт Celia: https://leafcanfly.neocities.org/
-
-— Спасибо @Boringdommer за дополнительные идеи по борьбе с цензурой в настройках пресета, спасибо за промпты: https://rarestmeow.neocities.org/)
+— HTML-regex от Celia: 
+https://leafcanfly.neocities.org
+Спасибо Мяу за промпты Below и Del: 
+https://rarestmeow.neocities.org
