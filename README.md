@@ -32,7 +32,7 @@ SillyTavern preset RU/EN<br>
 
 — Want it to write like a fanfic, acting on behalf of the user? In the bot’s first message, add actions for the user and disable the “No write for the user”. 
 
-— The chat-style and Social Networks is also here  
+— The chat-style or immersive RP
 
 ## For Which Models
 
@@ -115,7 +115,7 @@ I consider it universal; tested on:
 
 — Хотите, чтобы он писал как фанфик, действуя от имени пользователя? В первом сообщении бота добавьте действия для пользователя и отключите блок "No write for the user" 
 
-— Есть и чат-стиль, и иммитация соц. сетей
+— Чат-стиль в мессенджере или иммерсивная РП
 
 ## Для каких моделей
 
