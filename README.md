@@ -82,7 +82,7 @@ I consider it universal; tested on:
 
 — Thanks to @Boringdommer for ideas on fighting censorship (including NSFW On prompts)  
 
-— Thanks to Meow for Below and Del: https://rarestmeow.neocities.org  
+— Thanks to Meow for Bellow and Del: https://rarestmeow.neocities.org  
 
 — HTML regex by Celia: https://leafcanfly.neocities.org
 
@@ -163,7 +163,7 @@ I consider it universal; tested on:
 
 — Спасибо @Boringdommer за идеи по борьбе с цензурой (в т.ч. промты NSFW On)
 
-— Спасибо Мяу за Below и Del: https://rarestmeow.neocities.org
+— Спасибо Мяу за Bellow и Del: https://rarestmeow.neocities.org
 
 — HTML-regex от Селии: https://leafcanfly.neocities.org
 
