@@ -30,7 +30,9 @@ SillyTavern preset RU/EN<br>
 
 — Regex for the thinker, words (add your own), and HTML/CSS  
 
-— Want it to write like a fanfic, acting on behalf of the user? In the bot’s first message, add actions for the user and disable the “Do not write for the user” block. The chat-style option is also here  
+— Want it to write like a fanfic, acting on behalf of the user? In the bot’s first message, add actions for the user and disable the “No write for the user”. 
+
+— The chat-style and Social Networks is also here  
 
 ## For Which Models
 
@@ -111,7 +113,9 @@ I consider it universal; tested on:
 
 — Регексы на думалку, слова (добавь свои) и HTML/CSS
 
-— Хотите, чтобы он писал как фанфик, действуя от имени пользователя? В первом сообщении бота добавьте действия для пользователя и отключите блок «Do not write for the user» Здесь же есть и чат-стиль
+— Хотите, чтобы он писал как фанфик, действуя от имени пользователя? В первом сообщении бота добавьте действия для пользователя и отключите блок "No write for the user" 
+
+— Есть и чат-стиль, и иммитация соц. сетей
 
 ## Для каких моделей
 
