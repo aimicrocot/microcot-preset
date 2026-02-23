@@ -12,7 +12,7 @@ SillyTavern preset RU/EN<br>
   
   ## Why This Micro-Preset
 
-— Written according to guidelines from LLM creators (Google, Anthropic, GPT) ~ to make models more creative, better at remembering, and smarter  
+— Written according to new guidelines from Google, Anthropic, Open AI ~ to make models more creative, better at remembering, and smarter  
 
 — Fewer repetitions and clichés ~ because the fewer rigid instructions, the more creatively and vividly models write  
 
@@ -95,7 +95,7 @@ I consider it universal; tested on:
 
 ## Зачем этот микро-пресет
 
-— Написан по руководствам от создателей LLM (Google, Anthropic, GPT) ~ чтобы сделать модели более креативными, лучше запоминающими и более умными
+— Доработано по новым руководствам от Google, Anthropic, GPT ~ чтобы сделать модели более креативными, лучше запоминающими и более умными
 
 — Меньше повторов и клише ~ потому что чем меньше жёстких инструкций, тем креативнее и живее пишут модели
 
