@@ -70,13 +70,7 @@ I consider it universal; tested on:
 
 — Do not use Infotables/HTML/CSS constantly and restart RP with a summary at around 25–32k context  
 
-— If the AI poorly follows prompts, check Enable system prompt and/or Merge system messages in the preset settings (but the model will be less creative)  
-
-## Contacts
-
-— Author’s Telegram channel: @sillytavern1  
-
-— My approach to prompting: https://rentry.org/promting  
+— If the AI poorly follows prompts, check Enable system prompt and/or Merge system messages in the preset settings (but the model will be less creative)    
 
 ## Credits
 
