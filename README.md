@@ -70,7 +70,13 @@ I consider it universal; tested on:
 
 — Do not use Infotables/HTML/CSS constantly and restart RP with a summary at around 25–32k context  
 
-— If the AI poorly follows prompts, check Enable system prompt and/or Merge system messages in the preset settings (but the model will be less creative)    
+— If the AI poorly follows prompts, check Enable system prompt and/or Merge system messages in the preset settings (but the model will be less creative)
+
+## My contacts
+
+— Telegram about RP/AI:
+@sillytavern
+    
 
 ## Credits
 
@@ -146,6 +152,11 @@ I consider it universal; tested on:
 – Не используйте Инфотаблицы/HTML/CSS постоянно, включайте регексы на них и перезапускайте RP с саммари примерно на 25-32k контекста
 
 — Если ИИ плохо слушает промты, поставьте галочку в настройках пресета на Включить системный промт и/или Склеивать сообщения системы (но тогда модель будет менее творческая)
+
+## Контакты автора
+
+— Telegram про RP/AI:
+@sillytavern
 
 
 ## Кредиты и доп. инфо
