@@ -161,6 +161,7 @@ https://t.me/sillytavern1
 
 ## Кредиты и доп. инфо
 
+<details>
 — Мой подход к промтингу ботов: https://rentry.org/promting
 
 — Спасибо @Boringdommer за идеи по цензуре (в т.ч. промты NSFW On)
@@ -170,3 +171,4 @@ https://t.me/sillytavern1
 — HTML-regex от Селии: https://leafcanfly.neocities.org
 
 — Humanizer: https://github.com/blader/humanizer/blob/main/SKILL.md
+</details>
