@@ -75,7 +75,7 @@ I consider it universal; tested on:
 ## My contacts
 
 — Telegram about RP/AI:
-@sillytavern
+https://t.me/sillytavern1
     
 
 ## Credits
@@ -156,7 +156,7 @@ I consider it universal; tested on:
 ## Контакты автора
 
 — Telegram про RP/AI:
-@sillytavern
+https://t.me/sillytavern1
 
 
 ## Кредиты и доп. инфо
