@@ -1,0 +1,17 @@
+{
+    "id": "5ad905d2-71b4-47a6-9382-a68beaa6a78d",
+    "scriptName": "Del",
+    "findRegex": "/(<\\/?del>)/gmi",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
