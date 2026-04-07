@@ -1,0 +1,17 @@
+{
+    "id": "bad6d027-8e74-41e9-a774-39b3ffabef3d",
+    "scriptName": "Убрать звёздочки (*)",
+    "findRegex": "/[*]/g",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
