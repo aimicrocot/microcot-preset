@@ -1,0 +1,17 @@
+{
+    "id": "1ab4e17b-9812-40e6-9b48-3d278553ffb5",
+    "scriptName": "Синяя ачивка",
+    "findRegex": "\\[Новое достижение!\\]\\s*?\\n🏆\\s*(.*?)\\n\"(.*?)\"\\nРедкость:\\s*(.*)",
+    "replaceString": "<div style=\"display: flex; align-items: center; background: linear-gradient(90deg, #2a475e 0%, #1b2838 100%); border: 1px solid #3a3a3a; border-radius: 2px; padding: 12px; margin: 10px 0; font-family: 'Motiva Sans', Sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.5); overflow: hidden;\">\n  <div style=\"flex-shrink: 0; width: 54px; height: 54px; background: linear-gradient(135deg, #66c0f4 0%, #316282 100%); border: 2px solid #54a5d4; display: flex; align-items: center; justify-content: center; font-size: 30px; box-shadow: 0 0 10px rgba(102, 192, 244, 0.3);\">🏆</div>\n  <div style=\"margin-left: 15px; flex-grow: 1; display: flex; flex-direction: column;\">\n    <div style=\"display: flex; justify-content: space-between; align-items: center; margin-bottom: 4px;\">\n      <div style=\"color: #66c0f4; font-size: 8px; text-transform: uppercase; font-weight: 800; letter-spacing: 1px;\">Новое достижение!</div>\n      <div style=\"color: #5c7e10; font-size: 9px; font-weight: bold; background: rgba(0,0,0,0.2); padding: 2px 6px; border-radius: 2px; border: 1px solid rgba(92, 126, 16, 0.3); white-space: nowrap; margin-left: 10px;\">$3</div>\n    </div>\n    <div style=\"color: #ffffff; font-size: 16px; font-weight: 500; line-height: 1.2;\">$1</div>\n    <div style=\"color: #8f98a0; font-size: 10px; font-style: none; margin-top: 4px; line-height: 1.3;\">$2</div>\n  </div>\n</div>",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
