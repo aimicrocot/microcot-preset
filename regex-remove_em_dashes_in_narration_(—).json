@@ -1,0 +1,17 @@
+{
+    "id": "bfdccbf7-89d6-4b11-86dc-13c8914d9d49",
+    "scriptName": "Remove Em Dashes in narration (—)",
+    "findRegex": "/[—]/g",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
