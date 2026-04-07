@@ -1,0 +1,17 @@
+{
+    "id": "93db7f1d-6a65-4638-b06c-6c7b5421de16",
+    "scriptName": "InfoBoard REMOVE",
+    "findRegex": "/<InfoBoard>[\\s\\S]*?</InfoBoard>/g",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": false,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": 4,
+    "maxDepth": null
+}
