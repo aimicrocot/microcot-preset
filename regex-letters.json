@@ -1,0 +1,18 @@
+{
+    "id": "1f5f0be2-a16e-4ad5-b134-f78c35707e84",
+    "scriptName": "Letters",
+    "findRegex": "^([\\s\\S]+)$",
+    "replaceString": "<div style=\"background-color: #fdfaf2; background-image: url('https://www.transparenttextures.com/patterns/cream-paper.png'); padding: 25px; border-radius: 8px; box-shadow: 1px 1px 6px rgba(0,0,0,0.1); font-family: 'Comic Sans MS', 'Apple Chancery', 'cursive'; font-size: 18px; font-weight: normal; color: #2c2825; line-height: 1.4; border: 1px solid #e0d8c8; white-space: pre-wrap; font-style: italic;\">$1</div>",
+    "trimStrings": [],
+    "placement": [
+        1,
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
