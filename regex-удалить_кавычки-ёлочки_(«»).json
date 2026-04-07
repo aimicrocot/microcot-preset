@@ -1,0 +1,17 @@
+{
+    "id": "38099a38-2ab6-436d-a6b4-de2bbe6d2bd9",
+    "scriptName": "Удалить кавычки-ёлочки («»)",
+    "findRegex": "/[«»]/g",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
