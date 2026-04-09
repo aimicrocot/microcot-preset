@@ -26,7 +26,7 @@ SillyTavern Preset<br>
 
 - Anti-censorship thinker, which can be strengthened by adding Microcat-goblin personalities (enable Think and Micro Talks modules together)  
 
-- Many meta-stuff elements for RP itself like HTML/CSS & Img Gen, diary notes, thoughts, sims, comments, infotabs, etc.  
+- Many meta-stuff elements (in Meta-version) for RP itself like HTML/CSS & Img Gen, diary notes, thoughts, sims, comments, infotabs, etc.  
 
 - Want it to write like a fanfic, acting on behalf of the user? In the bot’s first message, add actions for the user and disable the “No write for the user”. 
 
@@ -106,7 +106,7 @@ https://t.me/sillytavern1
 
 - Антицензная думалка, которую можно усилить, дополнив личностями Микрокотов-гоблинов (включить вместе модули Think и Micro Talks)
 
-- Много мета-штук к самой РП типа HTML/CSS & Img Gen, дневниковых заметок, мыслей, симс, комментов, инфотабов и т.д. (я их использую в качестве Quick Replies, но захотелось в итоге поделиться промтами в пресете кому интересно)
+- В Мета-версии много мета-штук к самой РП типа HTML/CSS & Img Gen, дневниковых заметок, мыслей, симс, комментов, инфотабов и т.д. (я их использую в качестве Quick Replies, но захотелось в итоге поделиться промтами в пресете кому интересно)
 
 - Хотите, чтобы он писал как фанфик, действуя от имени пользователя? В первом сообщении бота добавьте действия для пользователя и отключите блок "No write for the user" 
 
