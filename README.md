@@ -162,6 +162,7 @@ https://t.me/sillytavern1
 ## Кредиты и доп. инфо
 
 <details>
+  
 - Мой подход к промтингу ботов: https://rentry.org/promting
 
 - Спасибо @Boringdommer за идеи по цензуре (в т.ч. промты NSFW On)
