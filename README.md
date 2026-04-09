@@ -79,6 +79,7 @@ https://t.me/sillytavern1
     
 
 ## Credits
+
 <details>
   
 - Thanks to @Boringdommer for ideas on fighting censorship (including NSFW On prompts)  
