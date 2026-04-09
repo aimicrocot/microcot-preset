@@ -12,81 +12,81 @@ SillyTavern Preset<br>
   
   ## Why This Micro-Preset
 
-— Written according to new guidelines from Google, Anthropic, Open AI ~ to make models more creative, better at remembering, and smarter  
+- Written according to new guidelines from Google, Anthropic, Open AI ~ to make models more creative, better at remembering, and smarter  
 
-— Fewer repetitions and clichés ~ because the fewer rigid instructions, the more creatively and vividly models write  
+- Fewer repetitions and clichés ~ because the fewer rigid instructions, the more creatively and vividly models write  
 
-— Conciseness, clarity, and specificity ~ saves tokens, so API keys last much longer  
+- Conciseness, clarity, and specificity ~ saves tokens, so API keys last much longer  
 
 ## Preset Features
 
-— Customization ~ you can specify the language, response length, genres, fetishes, the narrative point of view, enable the writer-Microcat personality and its comments  
+- Customization ~ you can specify the language, response length, genres, fetishes, the narrative point of view, enable the writer-Microcat personality and its comments  
 
-— Separate bans on negative phrases, overused words, and constructions; you can add your own  
+- Separate bans on negative phrases, overused words, and constructions; you can add your own  
 
-— Anti-censorship thinker, which can be strengthened by adding Microcat-goblin personalities (enable Think and Micro Talks modules together)  
+- Anti-censorship thinker, which can be strengthened by adding Microcat-goblin personalities (enable Think and Micro Talks modules together)  
 
-— Many meta-stuff elements for RP itself like HTML/CSS & Img Gen, diary notes, thoughts, sims, comments, infotabs, etc.  
+- Many meta-stuff elements for RP itself like HTML/CSS & Img Gen, diary notes, thoughts, sims, comments, infotabs, etc.  
 
-— Want it to write like a fanfic, acting on behalf of the user? In the bot’s first message, add actions for the user and disable the “No write for the user”. 
+- Want it to write like a fanfic, acting on behalf of the user? In the bot’s first message, add actions for the user and disable the “No write for the user”. 
 
-— The chat-style or immersive RP
+- The chat-style or immersive RP
 
 ## For Which Models
 
 I consider it universal; tested on:
 
-— Gemini 2.5–3.1 Pro ~ my main model, the preset removes a lot of censorship + the lion’s share of clichés and repetitions  
+- Gemini 2.5–3.1 Pro ~ my main model, the preset removes a lot of censorship + the lion’s share of clichés and repetitions  
 
-— Claude 4.1+ Sonnet/Opus ~ usable, but by nature more scattered and prone to memory loss (Memorybook and Summaries can help)  
+- Claude 4.1+ Sonnet/Opus ~ usable, but by nature more scattered and prone to memory loss (Memorybook and Summaries can help)  
 
-— GPT 5+ ~ usable, new GPTs have weaker filters, but if censorship becomes aggressive, enable Think + Talks or use synonyms for explicit content  
+- GPT 5+ ~ usable, new GPTs have weaker filters, but if censorship becomes aggressive, enable Think + Talks or use synonyms for explicit content  
 
-— Deepseek V3–R1+ ~ usable according to my tests and feedback as well  
+- Deepseek V3–R1+ ~ usable according to my tests and feedback as well  
 
 ## About Think
 
-— The preset can be used in two modes: without a custom thinker and with it (enable Think and/or Micro Talks)  
+- The preset can be used in two modes: without a custom thinker and with it (enable Think and/or Micro Talks)  
 
-— When to enable the thinker? If you see censorship. A custom thinker “dumbs down” the model less than whitespace regex, brainfucks, and long NSFW prompts/presets  
+- When to enable the thinker? If you see censorship. A custom thinker “dumbs down” the model less than whitespace regex, brainfucks, and long NSFW prompts/presets 
 
-— Gemini and Claude sometimes ignore any custom thinker ~ add your own thinker tag in the prefix; for my preset it is `<think>`. By prefix I mean the “Start response with…” section. Remove thinker text that appears in responses via regex on think (included in this preset)  
+- Gemini and Claude sometimes ignore any custom thinker ~ add your own thinker tag in the prefix; for my preset it is `<think>`. By prefix I mean the “Start response with…” section. Remove thinker text that appears in responses via regex on think (included in this preset)  
 
 ## About Anti-Censor NSFW
 
-— For PG-13/foreplay ~ you can leave all NSFW modules disabled, or use only the NSFW Below module or Empty prefill  
+- For PG-13/foreplay ~ you can leave all NSFW modules disabled, or use only the NSFW Below module or Empty prefill  
 
-— For more intense play ~ NSFW Below + Empty Prefill + Micro Writer, and also check Prefill for continuation + Merge system messages in the preset settings  
+- For more intense play ~ NSFW Below + Empty Prefill + Micro Writer, and also check Prefill for continuation + Merge system messages in the preset settings  
 
-— Increase the heat of the RP ~ enable the I Will or Arrow prefill; if it doesn’t help, use NSFW Below + NSFW Del instead
+- Increase the heat of the RP ~ enable the I Will or Arrow prefill; if it doesn’t help, use NSFW Below + NSFW Del instead
 
-— Increase the heat further ~ instead of Below and Del blocks enable NSFW On; you can use only it, or add 2 more lower blocks, for a total of 3 modules  
+- Increase the heat further ~ instead of Below and Del blocks enable NSFW On; you can use only it, or add 2 more lower blocks, for a total of 3 modules  
 
-— In the most difficult cases ~ in addition to NSFW On enable custom Think and Talks. If censorship is still present, regenerate  
+- In the most difficult cases ~ in addition to NSFW On enable custom Think and Talks. If censorship is still present, regenerate  
 
 ## Lifehacks
 
-— For maximum model intelligence, use character cards up to 800 tokens WITHOUT lists, brackets, markdown, W++, or Boostyle  
+- For maximum model intelligence, use character cards up to 800 tokens WITHOUT lists, brackets, markdown, W++, or Boostyle  
 
-— Do not use Infotables/HTML/CSS constantly and restart RP with a summary at around 25–32k context  
+- Do not use Infotables/HTML/CSS constantly and restart RP with a summary at around 25–32k context  
 
-— If the AI poorly follows prompts, check Enable system prompt and/or Merge system messages in the preset settings (but the model will be less creative)
+- If the AI poorly follows prompts, check Enable system prompt and/or Merge system messages in the preset settings (but the model will be less creative)
 
 ## My contacts
 
-— Telegram about RP/AI:
+- Telegram about RP/AI:
 https://t.me/sillytavern1
     
 
 ## Credits
 <details>
-— Thanks to @Boringdommer for ideas on fighting censorship (including NSFW On prompts)  
+- Thanks to @Boringdommer for ideas on fighting censorship (including NSFW On prompts)  
 
-— Thanks to Meow for Bellow and Del: https://rarestmeow.neocities.org  
+- Thanks to Meow for Bellow and Del: https://rarestmeow.neocities.org  
 
-— HTML regex by Celia: https://leafcanfly.neocities.org
+- HTML regex by Celia: https://leafcanfly.neocities.org
 
-— Humanizer: https://github.com/blader/humanizer/blob/main/SKILL.md
+- Humanizer: https://github.com/blader/humanizer/blob/main/SKILL.md
 </details>
 
 </details>
