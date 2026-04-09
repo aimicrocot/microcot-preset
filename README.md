@@ -80,6 +80,7 @@ https://t.me/sillytavern1
 
 ## Credits
 <details>
+  
 - Thanks to @Boringdommer for ideas on fighting censorship (including NSFW On prompts)  
 
 - Thanks to Meow for Bellow and Del: https://rarestmeow.neocities.org  
