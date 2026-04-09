@@ -79,8 +79,6 @@ https://t.me/sillytavern1
     
 
 ## Credits
-
-<details>
   
 - Thanks to @Boringdommer for ideas on fighting censorship (including NSFW On prompts)  
 
@@ -89,7 +87,6 @@ https://t.me/sillytavern1
 - HTML regex by Celia: https://leafcanfly.neocities.org
 
 - Humanizer: https://github.com/blader/humanizer/blob/main/SKILL.md
-</details>
 
 </details>
 
@@ -162,8 +159,6 @@ https://t.me/sillytavern1
 
 
 ## Кредиты и доп. инфо
-
-<details>
   
 - Мой подход к промтингу ботов: https://rentry.org/promting
 
@@ -174,4 +169,3 @@ https://t.me/sillytavern1
 - HTML-regex от Селии: https://leafcanfly.neocities.org
 
 - Humanizer: https://github.com/blader/humanizer/blob/main/SKILL.md
-</details>
