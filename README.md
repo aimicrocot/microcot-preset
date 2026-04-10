@@ -82,7 +82,7 @@ https://t.me/sillytavern1
   
 - Thanks to @Boringdommer for ideas on fighting censorship (including NSFW On prompts)  
 
-- Thanks to Meow for Bellow and Del: https://rarestmeow.neocities.org  
+- Thanks for Bellow and Del: https://rarestmeow.neocities.org  
 
 - HTML regex by Celia: https://leafcanfly.neocities.org
 
@@ -162,9 +162,7 @@ https://t.me/sillytavern1
   
 - Мой подход к промтингу ботов: https://rentry.org/promting
 
-- Спасибо @Boringdommer за идеи по цензуре (в т.ч. промты NSFW On)
-
-- Спасибо Мяу за Bellow и Del: https://rarestmeow.neocities.org
+- Спасибо за Bellow и Del: https://rarestmeow.neocities.org
 
 - HTML-regex от Селии: https://leafcanfly.neocities.org
 
