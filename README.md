@@ -2,7 +2,7 @@
 
 <p align="center">
 <b>Latest version:</b><br>
-  microcot_universal_no_xml (en)<br>
+  microcot_universal_var<br>
 </p>
 
 ---
